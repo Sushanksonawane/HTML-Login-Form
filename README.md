@@ -18,7 +18,8 @@ A simple **login page** with **responsive design**, **hover effects**, and a **c
 
 
 ## 🎨 Preview  
-![image](https://github.com/user-attachments/assets/095727c3-68f4-40a1-9f18-fd4295bca004)
+![Screenshot 2025-04-02 233749](https://github.com/user-attachments/assets/347f952a-643b-4820-8048-c8fb4d7be7cb)
+
 
 
 
